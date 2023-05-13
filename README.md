@@ -2,7 +2,6 @@ To make the project ready :
 clone the repo 
 open Terminal
 cd bizimply
-cd tests
 npm install
 
 To run the project on Cypress:
